@@ -1,0 +1,394 @@
+species,filename,full_audio
+Atlantic Spotted Dolphin,61025,True
+Atlantic Spotted Dolphin,61026,True
+Atlantic Spotted Dolphin,72006,True
+Bearded Seal,66036,True
+Bearded Seal,66037,True
+Bearded Seal,66038,True
+Bearded Seal,66039,True
+Ribbon Seal,67027,True
+Walrus,70024,True
+Bearded Seal,70025,True
+Bearded Seal,71012,True
+Walrus,72021,True
+Bearded Seal,78018,True
+"Beluga, White Whale",49001,True
+"Beluga, White Whale",62012,True
+"Beluga, White Whale",62017,True
+"Beluga, White Whale",62018,True
+"Beluga, White Whale",62019,True
+"Beluga, White Whale",62022,True
+"Beluga, White Whale",62026,True
+"Beluga, White Whale",63015,True
+"Beluga, White Whale",65030,True
+"Beluga, White Whale",65031,True
+"Beluga, White Whale",65033,True
+"Beluga, White Whale",68004,True
+"Fin, Finback Whale",74008,True
+Bottlenose Dolphin,51041,True
+Bottlenose Dolphin,56006,True
+Bottlenose Dolphin,84228,False
+Bottlenose Dolphin,89506,False
+Bottlenose Dolphin,89514,False
+Sperm Whale,90033,True
+Bottlenose Dolphin,94201,False
+"Boutu, Amazon River Dolphin",56048,True
+"Boutu, Amazon River Dolphin",66014,True
+Bowhead Whale,80001,True
+Bowhead Whale,88004,True
+Bowhead Whale,88005,True
+Bowhead Whale,88006,True
+Clymene Dolphin,83006,True
+Clymene Dolphin,83034,True
+Clymene Dolphin,83035,True
+Commerson's Dolphin,68028,True
+Common Dolphin,57026,True
+Common Dolphin,57027,True
+Common Dolphin,58013,True
+Common Dolphin,58014,True
+Common Dolphin,61030,True
+Common Dolphin,63021,True
+Common Dolphin,75003,True
+Common Dolphin,87003,True
+Dall's Porpoise,79024,True
+Dusky Dolphin,64124,True
+False Killer Whale,61021,True
+False Killer Whale,61022,True
+False Killer Whale,61023,True
+False Killer Whale,95003,True
+"Fin, Finback Whale",58002,True
+"Fin, Finback Whale",60009,True
+"Fin, Finback Whale",61039,True
+"Fin, Finback Whale",61040,True
+"Fin, Finback Whale",61041,True
+"Fin, Finback Whale",61044,True
+"Fin, Finback Whale",61045,True
+"Fin, Finback Whale",61047,True
+"Fin, Finback Whale",61048,True
+"Fin, Finback Whale",61053,True
+"Fin, Finback Whale",61054,True
+"Fin, Finback Whale",61055,True
+"Fin, Finback Whale",61056,True
+"Fin, Finback Whale",61064,True
+"Fin, Finback Whale",61068,True
+"Fin, Finback Whale",61077,True
+"Fin, Finback Whale",61078,True
+"Fin, Finback Whale",61079,True
+"Fin, Finback Whale",61085,True
+"Fin, Finback Whale",62004,True
+"Fin, Finback Whale",75001,True
+"Fin, Finback Whale",75005,True
+"Fin, Finback Whale",77006,True
+"Fin, Finback Whale",77007,True
+"Fin, Finback Whale",77008,True
+"Fin, Finback Whale",77009,True
+"Fin, Finback Whale",77010,True
+"Fin, Finback Whale",77012,True
+"Fin, Finback Whale",77014,True
+"Fin, Finback Whale",77015,True
+"Fin, Finback Whale",77018,True
+"Fin, Finback Whale",77020,True
+"Fin, Finback Whale",78012,True
+"Fin, Finback Whale",78014,True
+"Fin, Finback Whale",79004,True
+"Fin, Finback Whale",79005,True
+"Fin, Finback Whale",79006,True
+"Fin, Finback Whale",80011,True
+"Fin, Finback Whale",82004,True
+"Fin, Finback Whale",93201,False
+Finless Porpoise,69003,True
+Fraser's Dolphin,91008,True
+Fraser's Dolphin,91010,True
+Fraser's Dolphin,91013,True
+Fraser's Dolphin,94009,True
+"Grampus, Risso's Dolphin",59016,True
+"Grampus, Risso's Dolphin",59029,True
+"Grampus, Risso's Dolphin",59030,True
+"Grampus, Risso's Dolphin",61018,True
+"Grampus, Risso's Dolphin",63029,True
+"Grampus, Risso's Dolphin",85009,True
+"Grampus, Risso's Dolphin",87004,True
+Gray Seal,63001,True
+Gray Whale,67026,True
+Gray Whale,99001,False
+Gray Whale,99002,False
+Harbor Porpoise,61074,True
+Harbor Porpoise,65012,True
+Harp Seal,67008,True
+Harp Seal,67009,True
+Harp Seal,67010,True
+Heaviside's Dolphin,75015,True
+Hooded Seal,63008,True
+Humpback Whale,52008,True
+Humpback Whale,54018,True
+Humpback Whale,55113,True
+Humpback Whale,58018,True
+Humpback Whale,61042,True
+Humpback Whale,61043,True
+Humpback Whale,63019,True
+Humpback Whale,63043,True
+Humpback Whale,75017,True
+Humpback Whale,79022,True
+Humpback Whale,79029,True
+Humpback Whale,80020,True
+Humpback Whale,86008,True
+Humpback Whale,92201,False
+Irawaddy Dolphin,69011,True
+Juan Fernandez Fur Seal,68032,True
+Killer Whale,60012,True
+Killer Whale,60026,True
+Killer Whale,61062,True
+Killer Whale,64020,True
+Killer Whale,64023,True
+Killer Whale,64025,True
+Killer Whale,64030,True
+Killer Whale,64031,True
+Killer Whale,66049,True
+Killer Whale,79015,True
+Killer Whale,89405,False
+Killer Whale,92300,False
+Killer Whale,92301,False
+Killer Whale,92302,False
+Killer Whale,92303,False
+Killer Whale,92304,False
+Killer Whale,97500,False
+Killer Whale,97501,False
+Killer Whale,97503,False
+Killer Whale,97504,False
+Killer Whale,97619,False
+Killer Whale,97677,False
+Killer Whale,97692,False
+Killer Whale,97741,False
+Killer Whale,97742,False
+Killer Whale,97743,False
+Killer Whale,97744,False
+Killer Whale,97745,False
+Killer Whale,97747,False
+Killer Whale,97748,False
+Killer Whale,97749,False
+Killer Whale,97750,False
+Killer Whale,97751,False
+Killer Whale,97752,False
+Killer Whale,97753,False
+Killer Whale,97754,False
+Killer Whale,97755,False
+Killer Whale,97756,False
+Killer Whale,97757,False
+Killer Whale,97758,False
+Killer Whale,97759,False
+Killer Whale,97760,False
+Killer Whale,97761,True
+Killer Whale,97762,False
+Killer Whale,97763,False
+Killer Whale,97764,True
+Killer Whale,97765,True
+Killer Whale,97766,False
+Killer Whale,97767,False
+Killer Whale,97768,True
+Killer Whale,97769,False
+Killer Whale,97770,False
+Killer Whale,97771,False
+Killer Whale,97772,True
+Killer Whale,97773,True
+Killer Whale,97774,False
+Killer Whale,97775,True
+Killer Whale,97776,True
+Killer Whale,97777,True
+Killer Whale,97778,True
+Killer Whale,97779,True
+Killer Whale,97780,True
+Killer Whale,97781,False
+Killer Whale,97782,False
+Killer Whale,97783,False
+Ross Seal,66003,True
+Ross Seal,66034,True
+Ross Seal,66084,True
+Ross Seal,66089,True
+Ross Seal,66090,True
+Long Beaked (Pacific) Common Dolphin,58021,True
+Long Beaked (Pacific) Common Dolphin,58036,True
+Long-Finned Pilot Whale,53007,True
+Long-Finned Pilot Whale,54004,True
+Long-Finned Pilot Whale,54024,True
+Long-Finned Pilot Whale,56034,True
+Long-Finned Pilot Whale,56035,True
+Long-Finned Pilot Whale,58001,True
+Long-Finned Pilot Whale,58037,True
+Long-Finned Pilot Whale,75004,True
+Long-Finned Pilot Whale,75010,True
+Sperm Whale,75011,True
+Long-Finned Pilot Whale,75012,True
+Long-Finned Pilot Whale,77026,True
+Long-Finned Pilot Whale,77028,True
+Long-Finned Pilot Whale,77034,True
+Long-Finned Pilot Whale,77035,True
+Long-Finned Pilot Whale,91772,False
+Melon Headed Whale,91012,True
+Melon Headed Whale,94012,True
+Minke Whale,64103,True
+Minke Whale,64104,True
+Minke Whale,79040,False
+Narwhal,65011,True
+Narwhal,68002,True
+Ringed Seal,68003,True
+Ringed Seal,68005,True
+Narwhal,68040,True
+Narwhal,75014,True
+New Zealand Fur Seal,66004,True
+Northern Right Whale,56015,True
+Northern Right Whale,56016,True
+Northern Right Whale,56017,True
+Northern Right Whale,56018,True
+Northern Right Whale,56025,True
+Northern Right Whale,56026,True
+Northern Right Whale,56028,True
+Northern Right Whale,56068,True
+Northern Right Whale,59001,True
+Northern Right Whale,59003,True
+Northern Right Whale,59004,True
+Northern Right Whale,59005,True
+Northern Right Whale,59006,True
+Northern Right Whale,70014,True
+Northern Right Whale,70016,True
+Northern Right Whale,70017,True
+Northern Right Whale,70018,True
+Northern Right Whale,74003,True
+Northern Right Whale,81012,True
+Northern Right Whale,81013,True
+Northern Right Whale,81014,True
+Northern Right Whale,81015,True
+Pantropical Spotted Dolphin,64005,True
+Sperm Whale,84021,True
+Pantropical Spotted Dolphin,90027,True
+Pantropical Spotted Dolphin,90028,True
+Pantropical Spotted Dolphin,90044,True
+Pantropical Spotted Dolphin,90045,True
+Pantropical Spotted Dolphin,90058,True
+Pantropical Spotted Dolphin,93001,True
+Pantropical Spotted Dolphin,94006,True
+Pantropical Spotted Dolphin,94008,True
+Ribbon Seal,67028,True
+Ribbon Seal,67029,True
+Ribbon Seal,71013,True
+Ringed Seal,63005,True
+Ringed Seal,68006,True
+Ross Seal,66002,True
+Ross Seal,66085,True
+Ross Seal,66087,True
+Ross Seal,68001,True
+Rough-Toothed Dolphin,85013,True
+Rough-Toothed Dolphin,85014,True
+Sea Otter,68039,True
+Short-Finned (Pacific) Pilot Whale,57021,True
+Short-Finned (Pacific) Pilot Whale,61004,True
+Short-Finned (Pacific) Pilot Whale,65002,True
+Short-Finned (Pacific) Pilot Whale,65005,True
+Short-Finned (Pacific) Pilot Whale,66091,True
+Short-Finned (Pacific) Pilot Whale,81037,True
+Sperm Whale,84016,True
+Short-Finned (Pacific) Pilot Whale,91004,True
+Short-Finned (Pacific) Pilot Whale,91005,True
+Southern Right Whale,79002,True
+Southern Right Whale,83002,True
+Sperm Whale,61027,True
+Sperm Whale,62031,True
+Sperm Whale,66026,True
+Striped Dolphin,72007,True
+Sperm Whale,72009,True
+Sperm Whale,75006,True
+Sperm Whale,75007,False
+Sperm Whale,75008,True
+Sperm Whale,75009,True
+Spinner Dolphin,81024,True
+Spinner Dolphin,81038,True
+Sperm Whale,83019,True
+Sperm Whale,84007,True
+Sperm Whale,84014,True
+Sperm Whale,84018,True
+Sperm Whale,84020,True
+Sperm Whale,85002,True
+Sperm Whale,85003,True
+Sperm Whale,85004,True
+Sperm Whale,85005,True
+Sperm Whale,85010,True
+Sperm Whale,87009,True
+Sperm Whale,87011,True
+Sperm Whale,87017,True
+Sperm Whale,88002,True
+Sperm Whale,90007,True
+Sperm Whale,90008,True
+Sperm Whale,90009,True
+Sperm Whale,90010,True
+Sperm Whale,90011,True
+Sperm Whale,90039,True
+Sperm Whale,90043,True
+Sperm Whale,90046,True
+Sperm Whale,90065,True
+Sperm Whale,91003,True
+Sperm Whale,93003,True
+Sperm Whale,93006,True
+Sperm Whale,93570,False
+Sperm Whale,93573,False
+Sperm Whale,93580,False
+Sperm Whale,93582,False
+Sperm Whale,93584,False
+Sperm Whale,93591,False
+Sperm Whale,94004,True
+Sperm Whale,94005,True
+Sperm Whale,94011,True
+Sperm Whale,95001,True
+Sperm Whale,95510,True
+Sperm Whale,95516,True
+Sperm Whale,95518,False
+Sperm Whale,95519,False
+Spinner Dolphin,71001,True
+Spinner Dolphin,71002,True
+Spinner Dolphin,71003,True
+Spinner Dolphin,71004,True
+Spinner Dolphin,71006,True
+Spinner Dolphin,71007,True
+Spinner Dolphin,71008,True
+Spinner Dolphin,71009,True
+Spinner Dolphin,71010,True
+Spotted Seal,73001,True
+Spotted Seal,76001,True
+Steller Sea Lion,63016,True
+Striped Dolphin,58011,True
+Striped Dolphin,61024,True
+Striped Dolphin,61029,True
+Striped Dolphin,85007,True
+Striped Dolphin,85012,True
+Walrus,66006,False
+Walrus,72002,True
+Walrus,72014,True
+Walrus,72016,True
+Walrus,72017,True
+Walrus,72019,True
+Walrus,72020,True
+Walrus,83001,True
+Weddell Seal,64037,True
+Weddell Seal,64038,True
+Weddell Seal,64040,True
+Weddell Seal,64041,True
+Weddell Seal,64042,True
+Weddell Seal,64043,True
+Weddell Seal,64044,True
+Weddell Seal,64046,True
+Weddell Seal,64054,True
+Weddell Seal,64055,True
+Weddell Seal,64056,True
+West Indian Manatee,64008,True
+West Indian Manatee,64009,True
+West Indian Manatee,64013,True
+West Indian Manatee,64036,True
+White-beaked Dolphin,59037,True
+White-beaked Dolphin,62008,True
+White-beaked Dolphin,70005,True
+White-beaked Dolphin,70006,True
+White-beaked Dolphin,70012,True
+White-beaked Dolphin,70013,True
+White-beaked Dolphin,70015,True
+White-beaked Dolphin,72005,True
+White-sided Dolphin,61072,True
+White-sided Dolphin,61075,True
+White-sided Dolphin,78007,True
