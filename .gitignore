@@ -4,4 +4,5 @@
 /dataset_creation/dataset
 .mmd_venv
 code_references
-
+dataset_creation/master_tapes
+dataset_creation/__pycache__
