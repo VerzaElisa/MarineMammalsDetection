@@ -7,3 +7,6 @@ pandas >= 2.2.3
 requests >= 2.32.3
 beautifulsoup4 >= 4.13.4
 tqdm
+matplotlib
+soundfile
+tensorflow
