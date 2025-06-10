@@ -1,12 +1,13 @@
 boto3
-numpy>=2.2.4
-scipy>=1.15.2
-pandas>=2.2.3
-selenium >= 4.32.0
-pandas >= 2.2.3
-requests >= 2.32.3
-beautifulsoup4 >= 4.13.4
+numpy
+scipy
+pandas
+selenium
+pandas
+requests 
+beautifulsoup4 
 tqdm
-matplotlib
 soundfile
-tensorflow
+tensorflow >= 2.19.0
+jupyter
+ipykernel

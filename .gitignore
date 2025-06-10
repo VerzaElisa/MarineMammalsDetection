@@ -3,7 +3,9 @@
 /detection_entropy/media/docs/entropy.csv
 /dataset_creation/dataset
 /species_classification/spectrograms
-.mmd_venv
+/species_classification/spectrograms_full_plot
+/species_classification/trained_models
+.mmd-venv
 code_references
 dataset_creation/master_tapes
 dataset_creation/__pycache__
